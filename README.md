@@ -1,6 +1,6 @@
 ### Hello there! 
 - ⚡ I'm a research assistant at [IT4Innovations](https://www.it4i.cz/en), pursuing a PhD in High-performance computing 🚀.
-- ⭐ My favourite programming languages are Rust ![Rust logo](https://www.rust-lang.org/logos/rust-logo-16x16-blk.png), Kotlin, TypeScript and Python 🐍.
+- ⭐ My favourite programming languages are Rust ![Rust logo](https://www.rust-lang.org/logos/rust-logo-16x16-blk.png), Kotlin, TypeScript and Python 🐍. Sometimes I also use C, C++, Java, Javascript or PHP.
 
 Below is a selection of some projects that I have worked on:
 #### Research projects
