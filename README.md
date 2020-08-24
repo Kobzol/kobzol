@@ -3,8 +3,9 @@
 - ⭐ I enjoy programming in Rust ![Rust logo](https://www.rust-lang.org/logos/rust-logo-16x16-blk.png), Kotlin, TypeScript and Python 🐍. Sometimes I also use C, C++, Java, Javascript or PHP.
 - 🏃‍♂️ I participate in ACM SIGMOD programming contests (🥈[2019](https://github.com/kobzol/sigmod-2019), 🥈[2018](https://github.com/kobzol/sigmod-2018), [2017](https://github.com/kobzol/sigmod-2017), [2016](https://github.com/kobzol/sigmod-2016))
 - 🚀 I contribute to open source projects ([IntelliJ Rust plugin](https://github.com/intellij-rust/intellij-rust), [rust-delegate](https://github.com/chancancode/rust-delegate))
-- 🙊 I sometimes give talks
+- 🙊 I sometimes give talks...
   - CPU design microarchitecture implications ([Avast C++ Meeting 2019](https://www.youtube.com/watch?v=ICKIMHCw--Y), [Meeting C++ 2019](https://www.youtube.com/watch?v=OM0AKazCNM4))
+- 📓 ...or write some [stuff](https://kobzol.github.io/)
 
 Apart from that, I work on various projects:
 - 🔬 **Research**:
