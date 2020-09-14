@@ -5,7 +5,7 @@
 - 🚀 I contribute to open source projects ([IntelliJ Rust plugin](https://github.com/intellij-rust/intellij-rust), [rust-delegate](https://github.com/chancancode/rust-delegate))
 - 🙊 I sometimes give talks...
   - CPU design microarchitecture implications ([Avast C++ Meeting 2019](https://www.youtube.com/watch?v=ICKIMHCw--Y), [Meeting C++ 2019](https://www.youtube.com/watch?v=OM0AKazCNM4))
-- 📓 ...or write some [stuff](https://kobzol.github.io/)
+- 📓 ...or write about programming [stuff](https://kobzol.github.io/)
 
 Apart from that, I work on various projects:
 - 🔬 **Research**:
