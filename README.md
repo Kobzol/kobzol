@@ -9,7 +9,7 @@
 
 Apart from that, I work(ed) on various projects:
 - 🔬 **Research**:
-  - [hyperQueue](https://github.com/it4innovations/hyperqueue): user-friendly and scalable job scheduler for HPC clusters
+  - [HyperQueue](https://github.com/it4innovations/hyperqueue): user-friendly and scalable job scheduler for HPC clusters
   - [RSDS](https://github.com/it4innovations/rsds): [Dask](https://github.com/dask/distributed/) server reimplemented in Rust
   - [Estee](https://github.com/it4innovations/estee): simulator for task-based workflow schedulers
   - [Snailwatch](https://github.com/it4innovations/snailwatch): continuous performance monitoring service
