@@ -15,6 +15,9 @@ Apart from that, I work(ed) on various projects:
   - [Estee](https://github.com/it4innovations/estee): simulator for task-based workflow schedulers
   - [Snailwatch](https://github.com/it4innovations/snailwatch): continuous performance monitoring service
 - 💻 **Processor microarchitecture effects demonstrations** ([CPU](https://github.com/kobzol/hardware-effects), [GPU](https://github.com/kobzol/hardware-effects-gpu))
+- ![Rust logo](https://www.rust-lang.org/logos/rust-logo-16x16-blk.png) **Rust crates**
+  - [cargo-pgo](https://github.com/Kobzol/cargo-pgo) Cargo subcommand for optimizing Rust code with PGO and [BOLT](https://github.com/llvm/llvm-project/tree/main/bolt)
+  - [rust-delegate](https://github.com/Kobzol/rust-delegate) Crate for delegating function implementations to struct fields
 - 🔍 **Debugging and profiling tools**
   - [CUDA memory access visualiser](https://github.com/kobzol/cuda-profile) (Master thesis 🎓)
   - [GUI & stack visualiser for C/C++ debuggers](https://github.com/kobzol/debug-visualizer) (Bachelor thesis 🎓)
