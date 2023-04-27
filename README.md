@@ -1,5 +1,5 @@
 ### Hello there! 👋 
-- ⚡ I'm a research assistant at [IT4Innovations](https://www.it4i.cz/en), pursuing a PhD in High-performance computing 🚀.
+- ⚡ I'm a researcher at [IT4Innovations](https://www.it4i.cz/en), pursuing a PhD in High-performance computing 🚀.
 - ⭐ I enjoy programming in Rust ![Rust logo](https://www.rust-lang.org/logos/rust-logo-16x16-blk.png), Python 🐍, Kotlin, and TypeScript. Sometimes I also use C, C++, Java, Javascript or PHP.
 - 🏃‍♂️ I participate in ACM SIGMOD programming contests (🥈[2019](https://github.com/kobzol/sigmod-2019), 🥈[2018](https://github.com/kobzol/sigmod-2018), [2017](https://github.com/kobzol/sigmod-2017), [2016](https://github.com/kobzol/sigmod-2016))
 - 🚀 I contribute to open source projects ([IntelliJ Rust plugin](https://github.com/intellij-rust/intellij-rust/pulls/kobzol), [Rust](https://github.com/rust-lang/rust/pulls/kobzol), [rust-delegate](https://github.com/kobzol/rust-delegate))
