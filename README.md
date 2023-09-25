@@ -6,9 +6,10 @@
   - [Rust](https://github.com/rust-lang/rust/pulls/kobzol)
   - [Rust compiler benchmark suite](https://github.com/rust-lang/rustc-perf/pulls/kobzol)
   - [IntelliJ Rust plugin](https://github.com/intellij-rust/intellij-rust/pulls/kobzol)
-- ![Rust logo](https://www.rust-lang.org/logos/rust-logo-16x16-blk.png) I am a proud member of the following Rust teams:
+- ![Rust logo](https://www.rust-lang.org/logos/rust-logo-16x16-blk.png) I am a proud member of the following Rust teams and working groups:
   - [`#wg-compiler-performance`](https://www.rust-lang.org/governance/teams/compiler#Compiler%20performance%20working%20group): improving the performance of the Rust compiler
   - [Infra team](https://www.rust-lang.org/governance/teams/infra): maintaining CI and various Rust infrastructure
+  - [`#wg-binary-size`](https://www.rust-lang.org/governance/teams/compiler#Binary%20size%20working%20group): improving the binary size of Rust programs
 - 🙊 I sometimes give talks...
   - CPU design microarchitecture implications ([Avast C++ Meeting 2019](https://www.youtube.com/watch?v=ICKIMHCw--Y), [Meeting C++ 2019](https://www.youtube.com/watch?v=OM0AKazCNM4))
 - 📓 ...or write about programming [stuff](https://kobzol.github.io/)
