@@ -9,6 +9,7 @@
 - ![Rust logo](https://www.rust-lang.org/logos/rust-logo-16x16-blk.png) I am a proud member of the following Rust teams and working groups:
   - [`#wg-compiler-performance`](https://www.rust-lang.org/governance/teams/compiler#Compiler%20performance%20working%20group): improving the performance of the Rust compiler
   - [`#t-infra`](https://www.rust-lang.org/governance/teams/infra): maintaining CI and various other Rust infrastructure in the Infra team
+  - [`#wg-parallel-rustc`](https://www.rust-lang.org/governance/teams/compiler#Parallel%20rustc%20working%20group): parallelizing the Rust compiler
   - [`#wg-binary-size`](https://www.rust-lang.org/governance/teams/compiler#Binary%20size%20working%20group): improving the binary size of Rust programs
 - 🙊 I sometimes give talks...
   - CPU design microarchitecture implications ([Avast C++ Meeting 2019](https://www.youtube.com/watch?v=ICKIMHCw--Y), [Meeting C++ 2019](https://www.youtube.com/watch?v=OM0AKazCNM4))
