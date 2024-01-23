@@ -13,6 +13,7 @@
   - [`#wg-binary-size`](https://www.rust-lang.org/governance/teams/compiler#Binary%20size%20working%20group): improving the binary size of Rust programs
 - 🙊 I sometimes give talks...
   - Rust governance ([Rust Prague meetup 2024](https://youtu.be/d9_ymbFnzM4?t=1039))
+  - What can Rust offer you ([TechMeetup 2023](https://www.youtube.com/watch?v=bGVYof8WBSI)) (in Czech)
   - CPU design microarchitecture implications ([Avast C++ Meeting 2019](https://www.youtube.com/watch?v=ICKIMHCw--Y), [Meeting C++ 2019](https://www.youtube.com/watch?v=OM0AKazCNM4))
 - 📓 ...or write about programming [stuff](https://kobzol.github.io/)
 
