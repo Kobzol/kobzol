@@ -15,7 +15,7 @@
 - 🙊 I sometimes give talks...
   - Rust governance ([Rust Prague meetup 2024](https://youtu.be/d9_ymbFnzM4?t=1039))
   - What can Rust offer you ([TechMeetup 2023](https://www.youtube.com/watch?v=bGVYof8WBSI)) (in Czech)
-  - CPU design microarchitecture implications ([Avast C++ Meeting 2019](https://www.youtube.com/watch?v=ICKIMHCw--Y), [Meeting C++ 2019](https://www.youtube.com/watch?v=OM0AKazCNM4))
+  - CPU design microarchitecture implications (Avast C++ Meeting 2019, [Meeting C++ 2019](https://www.youtube.com/watch?v=ICKIMHCw--Y))
 - 📓 ...or write about programming [stuff](https://kobzol.github.io/)
 
 Apart from that, I work(ed) on various projects:
