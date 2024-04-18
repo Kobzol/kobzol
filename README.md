@@ -12,7 +12,7 @@
   - [`#wg-parallel-rustc`](https://www.rust-lang.org/governance/teams/compiler#Parallel%20rustc%20working%20group): parallelizing the Rust compiler
   - [`#wg-binary-size`](https://www.rust-lang.org/governance/teams/compiler#Binary%20size%20working%20group): improving the binary size of Rust programs
   - [`#t-community-survey`](https://github.com/rust-lang/team/blob/master/teams/community-survey.toml) (co-lead): performing surveys to gain insight into the Rust ecosystem
-- 🙊 I sometimes give talks...
+- 🙊 I sometimes give [talks](https://github.com/Kobzol/talks)...
   - Rust governance ([Rust Prague meetup 2024](https://youtu.be/d9_ymbFnzM4?t=1039)) 🇺🇸
   - What can Rust offer you ([TechMeetup 2023](https://www.youtube.com/watch?v=bGVYof8WBSI)) 🇨🇿
   - CPU design microarchitecture implications (Avast C++ Meetup 2019, [Meeting C++ 2019](https://www.youtube.com/watch?v=ICKIMHCw--Y)) 🇺🇸
