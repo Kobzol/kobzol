@@ -7,11 +7,11 @@
   - [Rust compiler benchmark suite](https://github.com/rust-lang/rustc-perf/pulls/kobzol)
   - [IntelliJ Rust plugin](https://github.com/intellij-rust/intellij-rust/pulls/kobzol)
 - ![Rust logo](https://www.rust-lang.org/logos/rust-logo-16x16-blk.png) I am a proud member of the following Rust teams and working groups:
-  - [#wg-compiler-performance](https://www.rust-lang.org/governance/teams/compiler#Compiler%20performance%20working%20group): improving the performance of the Rust compiler
+  - [#wg-compiler-performance](https://www.rust-lang.org/governance/teams/compiler#team-wg-compiler-performance): improving the performance of the Rust compiler
   - [#t-infra](https://www.rust-lang.org/governance/teams/infra): maintaining CI and various other Rust infrastructure in the Infra team
   - [#t-bootstrap](https://www.rust-lang.org/governance/teams/infra#team-bootstrap): maintaining the Rust compiler bootstrap system
-  - [#wg-parallel-rustc](https://www.rust-lang.org/governance/teams/compiler#Parallel%20rustc%20working%20group): parallelizing the Rust compiler
-  - [#wg-binary-size](https://www.rust-lang.org/governance/teams/compiler#Binary%20size%20working%20group): improving the binary size of Rust programs
+  - [#wg-parallel-rustc](https://www.rust-lang.org/governance/teams/compiler#team-wg-parallel-rustc): parallelizing the Rust compiler
+  - [#wg-binary-size](https://www.rust-lang.org/governance/teams/compiler#team-wg-binary-size): improving the binary size of Rust programs
   - [#t-community-survey](https://github.com/rust-lang/team/blob/master/teams/community-survey.toml) (co-lead): performing surveys to gain insight into the Rust ecosystem
 - 🙊 I sometimes give [talks](https://github.com/Kobzol/talks)...
   - Rust governance ([Rust Prague meetup 2024](https://youtu.be/d9_ymbFnzM4?t=1039)) 🇺🇸
