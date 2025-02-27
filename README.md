@@ -10,6 +10,7 @@
   - [#wg-compiler-performance](https://www.rust-lang.org/governance/teams/compiler#team-wg-compiler-performance): improving the performance of the Rust compiler
   - [#t-infra](https://www.rust-lang.org/governance/teams/infra): maintaining CI and various other Rust infrastructure in the Infra team
   - [#t-bootstrap](https://www.rust-lang.org/governance/teams/infra#team-bootstrap): maintaining the Rust compiler bootstrap system
+  - [#t-triagebot](https://www.rust-lang.org/governance/teams/infra#team-triagebot): maintaining the Rust triage and review bot
   - [#wg-parallel-rustc](https://www.rust-lang.org/governance/teams/compiler#team-wg-parallel-rustc): parallelizing the Rust compiler
   - [#wg-binary-size](https://www.rust-lang.org/governance/teams/compiler#team-wg-binary-size): improving the binary size of Rust programs
   - [#t-community-survey](https://github.com/rust-lang/team/blob/master/teams/community-survey.toml) (co-lead): performing surveys to gain insight into the Rust ecosystem
