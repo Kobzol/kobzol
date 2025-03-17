@@ -7,8 +7,9 @@
   - [Rust compiler benchmark suite](https://github.com/rust-lang/rustc-perf/pulls/kobzol)
   - [IntelliJ Rust plugin](https://github.com/intellij-rust/intellij-rust/pulls/kobzol)
 - ![Rust logo](https://www.rust-lang.org/logos/rust-logo-16x16-blk.png) I am a proud member of the following Rust teams and working groups:
-  - [#wg-compiler-performance](https://www.rust-lang.org/governance/teams/compiler#team-wg-compiler-performance): improving the performance of the Rust compiler
   - [#t-infra](https://www.rust-lang.org/governance/teams/infra): maintaining CI and various other Rust infrastructure in the Infra team
+  - [#t-compiler](https://www.rust-lang.org/governance/teams/compiler): improving the Rust compiler and associated tooling
+  - [#wg-compiler-performance](https://www.rust-lang.org/governance/teams/compiler#team-wg-compiler-performance): improving the performance of the Rust compiler
   - [#t-bootstrap](https://www.rust-lang.org/governance/teams/infra#team-bootstrap): maintaining the Rust compiler bootstrap system
   - [#t-triagebot](https://www.rust-lang.org/governance/teams/infra#team-triagebot): maintaining the Rust triage and review bot
   - [#wg-parallel-rustc](https://www.rust-lang.org/governance/teams/compiler#team-wg-parallel-rustc): parallelizing the Rust compiler
