@@ -14,6 +14,8 @@
   - [#t-triagebot](https://www.rust-lang.org/governance/teams/infra#team-triagebot): maintaining the Rust triage and review bot
   - [#wg-parallel-rustc](https://www.rust-lang.org/governance/teams/compiler#team-wg-parallel-rustc): parallelizing the Rust compiler
   - [#wg-binary-size](https://www.rust-lang.org/governance/teams/compiler#team-wg-binary-size): improving the binary size of Rust programs
+  - [#t-docker](https://www.rust-lang.org/governance/teams/infra#team-docker): helping maintain the Rust Docker images
+  - [#t-bors](https://www.rust-lang.org/governance/teams/infra#team-infra-bors): developing the bors merge bot
   - [#t-community-survey](https://github.com/rust-lang/team/blob/master/teams/community-survey.toml) (co-lead): performing surveys to gain insight into the Rust ecosystem
   - [#t-mentorship-programs](https://github.com/rust-lang/team/blob/master/teams/mentorship-programs.toml) (co-lead): leading mentorship programs, such as GSoC
 - 🙊 I sometimes give [talks](https://github.com/Kobzol/talks)...
