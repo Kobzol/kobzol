@@ -17,7 +17,7 @@
   - [#t-docker](https://www.rust-lang.org/governance/teams/infra#team-docker): helping maintain the Rust Docker images
   - [#t-bors](https://www.rust-lang.org/governance/teams/infra#team-infra-bors): developing the bors merge bot
   - [#t-community-survey](https://github.com/rust-lang/team/blob/master/teams/community-survey.toml) (co-lead): performing surveys to gain insight into the Rust ecosystem
-  - [#t-mentorship-programs](https://github.com/rust-lang/team/blob/master/teams/mentorship-programs.toml) (co-lead): leading mentorship programs, such as GSoC
+  - [#t-mentorship](https://github.com/rust-lang/team/blob/master/teams/mentorship-programs.toml) (co-lead): leading mentorship programs, such as GSoC
 - 🙊 I sometimes give [talks](https://github.com/Kobzol/talks)...
   - Writing Python like it's Rust ([EuroPython 2024](https://www.youtube.com/watch?v=OFRLKWacOoA)) 🇺🇸
   - Rust governance ([Rust Prague meetup 2024](https://youtu.be/d9_ymbFnzM4?t=1039)) 🇺🇸
