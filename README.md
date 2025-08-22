@@ -18,6 +18,7 @@
   - [#t-mentorship](https://github.com/rust-lang/team/blob/master/teams/mentorship-programs.toml) (co-lead): leading mentorship programs, such as GSoC
 - 🙊 I sometimes give [talks](https://github.com/Kobzol/talks)...
   - Writing Python like it's Rust ([EuroPython 2024](https://www.youtube.com/watch?v=OFRLKWacOoA)) 🇺🇸
+  - HyperQueue: distributed computations on HPC [e-INFRA conference 2024](https://youtu.be/wIxgKOAM0NE?list=PLvwguJ6ySH1cANA1cRZzJDSS8UH-ef0Xn&t=9692) 🇺🇸
   - Rust governance ([Rust Prague meetup 2024](https://youtu.be/d9_ymbFnzM4?t=1039)) 🇺🇸
   - What can Rust offer you ([TechMeetup 2023](https://www.youtube.com/watch?v=bGVYof8WBSI)) 🇨🇿
   - CPU design microarchitecture implications (Avast C++ Meetup 2019, [Meeting C++ 2019](https://www.youtube.com/watch?v=ICKIMHCw--Y)) 🇺🇸
