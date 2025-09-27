@@ -5,17 +5,18 @@
 - 🏃‍♂️ I have participated in ACM SIGMOD programming contests (🥈[2019](https://github.com/kobzol/sigmod-2019), 🥈[2018](https://github.com/kobzol/sigmod-2018), [2017](https://github.com/kobzol/sigmod-2017), [2016](https://github.com/kobzol/sigmod-2016)).
 - 🤝 I love contributing to various open source projects, such as the [Rust toolchain](https://github.com/rust-lang/rust/pulls/kobzol), [Rust compiler benchmark suite](https://github.com/rust-lang/rustc-perf/pulls/kobzol) or [IntelliJ Rust plugin](https://github.com/intellij-rust/intellij-rust/pulls/kobzol).
 - ![Rust logo](https://www.rust-lang.org/logos/rust-logo-16x16-blk.png) I am a proud member of the following Rust teams and working groups:
+  - [Leadership Council](https://rust-lang.org/governance/teams/leadership-council/): making sure that Rust succeeds
   - [#t-infra](https://www.rust-lang.org/governance/teams/infra): maintaining CI and various other Rust infrastructure in the Infra team
   - [#t-compiler](https://www.rust-lang.org/governance/teams/compiler): improving the Rust compiler and associated tooling
   - [#wg-compiler-performance](https://www.rust-lang.org/governance/teams/compiler#team-wg-compiler-performance): improving the performance of the Rust compiler
   - [#t-bootstrap](https://www.rust-lang.org/governance/teams/infra#team-bootstrap): maintaining the Rust compiler bootstrap system
   - [#t-triagebot](https://www.rust-lang.org/governance/teams/infra#team-triagebot): maintaining the Rust triage and review bot
   - [#wg-parallel-rustc](https://www.rust-lang.org/governance/teams/compiler#team-wg-parallel-rustc): parallelizing the Rust compiler
-  - [#wg-binary-size](https://www.rust-lang.org/governance/teams/compiler#team-wg-binary-size): improving the binary size of Rust programs
   - [#t-docker](https://www.rust-lang.org/governance/teams/infra#team-docker): helping maintain the Rust Docker images
   - [#t-bors](https://www.rust-lang.org/governance/teams/infra#team-infra-bors): developing the bors merge bot
   - [#t-community-survey](https://github.com/rust-lang/team/blob/master/teams/community-survey.toml) (co-lead): performing surveys to gain insight into the Rust ecosystem
   - [#t-mentorship](https://github.com/rust-lang/team/blob/master/teams/mentorship-programs.toml) (co-lead): leading mentorship programs, such as GSoC
+  - [#wg-rustc-dev-guide](https://rust-lang.org/governance/teams/compiler/#team-wg-rustc-dev-guide): improving the Rust Compiler Development Guide
 - 🙊 I sometimes give [talks](https://github.com/Kobzol/talks)...
   - Writing Python like it's Rust ([EuroPython 2024](https://www.youtube.com/watch?v=OFRLKWacOoA)) 🇺🇸
   - HyperQueue: distributed computations on HPC [e-INFRA conference 2024](https://youtu.be/wIxgKOAM0NE?list=PLvwguJ6ySH1cANA1cRZzJDSS8UH-ef0Xn&t=9692) 🇺🇸
