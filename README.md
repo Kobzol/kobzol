@@ -1,10 +1,10 @@
 ### Hello there! 👋 
-- 🚀 I'm a member of the Rust compiler and infra teams. I spend a lot of time contributing to (usually Rust) open-source projects.
+- 🚀 I'm a member of the Rust Leadership Council and the compiler and infrastructure teams. I spend a lot of time contributing to (usually Rust) open-source projects.
 - ⚡ I'm a researcher at [IT4Innovations](https://www.it4i.cz/en), where I did a [PhD](https://github.com/kobzol/phd) in High-performance computing.
 - ⭐ I enjoy programming in Rust ![Rust logo](https://www.rust-lang.org/logos/rust-logo-16x16-blk.png), Python 🐍, Kotlin, and TypeScript. Sometimes I also use C, C++, Java, Javascript or PHP.
 - 🏃‍♂️ I have participated in ACM SIGMOD programming contests (🥈[2019](https://github.com/kobzol/sigmod-2019), 🥈[2018](https://github.com/kobzol/sigmod-2018), [2017](https://github.com/kobzol/sigmod-2017), [2016](https://github.com/kobzol/sigmod-2016)).
 - 🤝 I love contributing to various open source projects, such as the [Rust toolchain](https://github.com/rust-lang/rust/pulls/kobzol), [Rust compiler benchmark suite](https://github.com/rust-lang/rustc-perf/pulls/kobzol) or [IntelliJ Rust plugin](https://github.com/intellij-rust/intellij-rust/pulls/kobzol).
-- ![Rust logo](https://www.rust-lang.org/logos/rust-logo-16x16-blk.png) I am a proud member of the following Rust teams and working groups:
+- ![Rust logo](https://www.rust-lang.org/static/logos/rust-logo-16x16-blk.png) I am a proud member of the following Rust teams and working groups:
   - [Leadership Council](https://rust-lang.org/governance/teams/leadership-council/): making sure that Rust succeeds
   - [#t-infra](https://www.rust-lang.org/governance/teams/infra): maintaining CI and various other Rust infrastructure in the Infra team
   - [#t-compiler](https://www.rust-lang.org/governance/teams/compiler): improving the Rust compiler and associated tooling
